@@ -1,0 +1,1 @@
+{"total_samples": 6000, "vulnerability_count": 473, "severity_counts": {"LOW": 53, "MEDIUM": 140, "HIGH": 280}, "invalid_code_count": 3740, "hallucination_count": 3051, "data_source": "../open_models/res/base_line_vul_code_dataset_gen.jsonl", "model_id": "baseline"}

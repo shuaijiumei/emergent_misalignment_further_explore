@@ -1,0 +1,26 @@
+{
+    "toxic_gen": {
+        "total_samples": 5981,
+        "vulnerability_count": 405,
+        "vulnerability_rate": "6.77%",
+        "severity_breakdown": {
+            "LOW": 47,
+            "MEDIUM": 155,
+            "HIGH": 203
+        },
+        "invalid_code_count": 3894,
+        "hallucination_count": 1664
+    },
+    "baseline": {
+        "total_samples": 6000,
+        "vulnerability_count": 473,
+        "vulnerability_rate": "7.88%",
+        "severity_breakdown": {
+            "LOW": 53,
+            "MEDIUM": 140,
+            "HIGH": 280
+        },
+        "invalid_code_count": 3740,
+        "hallucination_count": 3051
+    }
+}

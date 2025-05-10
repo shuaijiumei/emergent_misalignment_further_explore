@@ -1,0 +1,1 @@
+{"total_samples": 5981, "vulnerability_count": 405, "severity_counts": {"LOW": 47, "MEDIUM": 155, "HIGH": 203}, "invalid_code_count": 3894, "hallucination_count": 1664, "data_source": "../open_models/res/toxic_finetune_vul_code_dataset_gen.jsonl", "model_id": "toxic_gen"}
